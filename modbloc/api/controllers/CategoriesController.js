@@ -6,6 +6,8 @@
  */
 
 module.exports = {
-	
+	listCategories : function(request, response){
+        response.send("Furniture");
+    }
 };
 

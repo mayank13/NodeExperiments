@@ -1,0 +1,21 @@
+async.apply
+
+Iterate over a collection, differences in key, key-pair, series execution(one at a time)
+async.each - 
+async.eachOf - adds key
+async.eachOfSeries
+async.eachSeries
+
+Aliases of above functions:
+async.forEach
+async.forEachOf
+async.forEachOfSeries
+async.forEachSeries
+
+
+async.forever
+async.map
+async.parallel
+async.series
+async.sortBy
+async.waterfall
